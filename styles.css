@@ -35,3 +35,31 @@ input[type=submit] {
     height: 300px;
     overflow: hidden;
 }
+
+.adv-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+#advanced {
+    color: red;
+    font-family: arial,sans-serif;
+    font-size: 20px;
+}
+
+.bar {
+    border-bottom: 1px solid #ebebeb;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.many-options {
+    margin: 40px 2% 0 45px;
+}
+#advanced-options {
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: flex-start;
+    flex-direction: column;
+    
+}
