@@ -26,3 +26,12 @@
 .nav-2 {
     align-items: flex-end;
 }
+
+input[type=submit] {
+    background-color: #f8f9fa;
+}
+
+.crop {
+    height: 300px;
+    overflow: hidden;
+}
